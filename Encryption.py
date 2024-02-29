@@ -13,7 +13,7 @@ with open('key.key', 'rb') as key_file:
 # Create a Fernet instance with the key
 fernet = Fernet(key)
 
-# Encrypt the file
+# Encrypt the file (Choose your own file and replace it)
 with open('Hola.txt', 'rb') as file:
     data = file.read()
 encrypted_data = fernet.encrypt(data)
