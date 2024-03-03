@@ -9,4 +9,3 @@ El repositorio se organiza en carpetas temáticas, cada una centrada en un aspec
 - **Encryption**
 - **Penetration Testing**
 
-¡Espero que este repositorio sea de utilidad para la comunidad de ciberseguridad!
